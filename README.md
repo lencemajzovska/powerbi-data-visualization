@@ -1,4 +1,4 @@
-# Köksglädje – Power BI-rapport för försäljningsanalys
+# Köksglädje – Power BI rapport för försäljningsanalys
 
 Detta projekt är en interaktiv försäljningsrapport byggd i **Power BI Desktop** med data från företaget *Köksglädje* (för utbildningssyfte). Syftet med projektet var att analysera försäljning utifrån produkt, butik, geografisk plats och tidsdimension – samt att skapa en tydlig och användarvänlig rapportlayout.
 
