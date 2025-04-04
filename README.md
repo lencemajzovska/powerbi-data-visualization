@@ -34,6 +34,11 @@ Detta projekt är en interaktiv försäljningsrapport byggd i **Power BI Desktop
 📎 **Vill du se rapporten live?**  
 > Ladda ner `.pbix`-filen och öppna den i Power BI Desktop!
 
-## Rapportöversikt
+### Rapportöversikt
 
 ![image](https://github.com/user-attachments/assets/c34a7413-4084-42a6-93fa-df9ba22caff9)
+
+
+### KUl att göra rapporten?
+![image](https://github.com/user-attachments/assets/c8e2461e-fa95-475c-bf5e-f0564cc8ee6b)
+
