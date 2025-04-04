@@ -39,3 +39,4 @@ Detta projekt är en interaktiv försäljningsrapport byggd i **Power BI Desktop
 ![image](https://github.com/user-attachments/assets/fde07ef4-e2bf-41aa-9d67-0c5bef256141)
 
 
+![image](https://github.com/user-attachments/assets/c34a7413-4084-42a6-93fa-df9ba22caff9)
