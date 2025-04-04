@@ -6,7 +6,7 @@ Detta projekt är en interaktiv försäljningsrapport byggd i **Power BI Desktop
 - Analysera försäljning över tid
 - Identifiera toppsäljande produkter och butiker
 - Upptäcka intressanta trender i data
-- Visualisera resultat på ett logiskt och estetiskt sätt
+- Visualisera resultat på ett logiskt sätt
 
 ## Innehåll
 - `.pbix`-fil: Själva Power BI-rapporten
