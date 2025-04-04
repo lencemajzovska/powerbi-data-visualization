@@ -24,9 +24,9 @@ Detta projekt är en interaktiv försäljningsrapport byggd i **Power BI Desktop
 - All data har rensats och formaterats för att passa analysen
 
 ## Insikter
-- September 2021 var bästa försäljningsmånad (118K SEK)
-- Köksassistenten är topprodukten (420K SEK)
-- Köksbutiken Stockholm är butiken med högst försäljning (320K SEK)
+- September 2021 var bästa försäljningsmånad
+- Köksassistenten är topprodukten
+- Köksbutiken Stockholm är butiken med högst försäljning
 - Försäljning ökar under hösten – sannolikt kopplat till kampanjer eller säsong
 
 ---
