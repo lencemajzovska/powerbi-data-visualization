@@ -4,14 +4,20 @@
 
 Created as part of my Data Science studies to explore sales analysis using Power BI.
 
+---
+
 ## 📝 Project Description
 Interactive sales report created in **Power BI Desktop** based on data from the fictional company Köksglädje. The goal was to analyze sales performance across products, stores, regions, and time, while designing a clear and user-friendly dashboard for business insights.
+
+---
 
 ## 🎯 Objectives
 - Analyze sales trends over time
 - Identify top-selling products and best-performing stores
 - Discover trends and patterns in sales data
 - Create intuitive and interactive visualizations for business users
+
+  ---
 
 ## 📂 Content
 - `.pbix`-file: Full Power BI report
@@ -23,10 +29,14 @@ Interactive sales report created in **Power BI Desktop** based on data from the 
   - Geographical sales map by city
   - Reflection and self-assessment from the project
 
+---
+
 ## 📊 Data Model
 - Star schema with fact table and dimension tables (Product, Store, Date, etc.)
 - Custom date dimension created in Power Query
 - Data cleaning and transformation applied for optimized analysis
+
+---
 
 ## 🔎 Key Insights
 - September 2021 was the strongest sales month
@@ -34,12 +44,13 @@ Interactive sales report created in **Power BI Desktop** based on data from the 
 - Stockholm store had the highest sales performance
 - Sales increased during autumn, likely due to promotions or seasonal factors
 
-
 ---
 
 📎 **How to open the report**  
-> Download the `.pbix`-file and open it in Power BI Desktop.
+1. Download the `.pbix`-file
+2. Open it using **Power BI Desktop**
 
+---
 
 ## 📸 Demo Preview
 
