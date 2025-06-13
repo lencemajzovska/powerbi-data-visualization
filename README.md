@@ -46,10 +46,9 @@ Educational data analytics project created as part of my Data Science studies to
 
 ---
 
-<br>
 
 ## Demo Preview  
-<br>
+
 
 ### Overview  
 ![image](https://github.com/user-attachments/assets/c34a7413-4084-42a6-93fa-df9ba22caff9)
