@@ -46,16 +46,16 @@ Educational data analytics project created as part of my Data Science studies to
 You can open the file in **Power BI Desktop**.
 
 ---
-&nbsp;
+<br>
 
 
 ## Demo Preview  
-&nbsp;
+<br>
 
 ### Overview  
 ![image](https://github.com/user-attachments/assets/c34a7413-4084-42a6-93fa-df9ba22caff9)
 
-&nbsp;
+<br>
 
 ### Products & Stores  
 ![image](https://github.com/user-attachments/assets/a1a914d4-a0f1-47e6-90be-a4e55c828836)
