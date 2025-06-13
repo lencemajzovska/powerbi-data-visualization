@@ -41,11 +41,7 @@ Educational data analytics project created as part of my Data Science studies to
 
 ## Download and Open the Report
 
-You can download the full report directly from this repository:  
-👉 [power_bi_köksglädje.pbix](./power_bi_köksglädje.pbix)
-
-To download: click Raw or the Download icon in GitHub.  
-Once downloaded, open the `.pbix`-file in **Power BI Desktop**.
+👉 Download the full report: [power_bi_köksglädje.pbix](./power_bi_köksglädje.pbix)
 
 ---
 
