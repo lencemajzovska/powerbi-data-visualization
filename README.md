@@ -43,7 +43,6 @@ Educational data analytics project created as part of my Data Science studies to
 
 👉 [power_bi_köksglädje.pbix](./power_bi_köksglädje.pbix)  
 
-You can download the full report and open it in Power BI Desktop.
 
 ---
 
