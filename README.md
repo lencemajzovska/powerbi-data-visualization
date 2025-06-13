@@ -4,7 +4,7 @@
 Created as part of my Data Science studies to explore sales analysis using Power BI.
 
 ## Project Description
-Interactive sales report created in **Power BI Desktop** based on data from the fictional company Köksglädje (educational project). The goal was to analyze sales performance across products, stores, regions, and time, while designing a clear and user-friendly dashboard for business insights.
+Interactive sales report created in **Power BI Desktop** based on data from the fictional company Köksglädje. The goal was to analyze sales performance across products, stores, regions, and time, while designing a clear and user-friendly dashboard for business insights.
 
 ## Objectives
 - Analyze sales trends over time
