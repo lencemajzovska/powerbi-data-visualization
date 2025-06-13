@@ -19,7 +19,7 @@ Interactive sales report created in **Power BI Desktop** based on data from the 
 
 ## 📂 Content
 - `.pbix`-file: Full Power BI report
-- Visualizations:
+- **Visualizations:**
   - KPI boxes (Total Sales, Gross Profit, Average Price, etc.)
   - Time analysis (trend lines, year-over-year comparisons)
   - Top lists by product, store, and city
