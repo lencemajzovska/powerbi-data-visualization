@@ -50,18 +50,14 @@ Educational data analytics project created as part of my Data Science studies to
 &nbsp;
 
 ### Overview
----
 ![image](https://github.com/user-attachments/assets/c34a7413-4084-42a6-93fa-df9ba22caff9)
 
 ### Products & Stores
----
 ![image](https://github.com/user-attachments/assets/a1a914d4-a0f1-47e6-90be-a4e55c828836)
 
 ### Time Analysis
----
 ![image](https://github.com/user-attachments/assets/1e08f748-ca7e-4fa9-9054-f49d8f38f8c8)
 
 ### Summary & Reflection
----
 ![image](https://github.com/user-attachments/assets/c8e2461e-fa95-475c-bf5e-f0564cc8ee6b)
 
