@@ -52,6 +52,8 @@ Interactive sales report created in **Power BI Desktop** based on data from the 
 
 ## 📸 Demo Preview
 
+---
+
 ### Overview
 ![image](https://github.com/user-attachments/assets/c34a7413-4084-42a6-93fa-df9ba22caff9)
 
