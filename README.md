@@ -39,6 +39,12 @@ Educational data analytics project created as part of my Data Science studies to
 
 ---
 
+## Download
+
+[Download the report file here](./power_bi_köksglädje.pbix)
+
+---
+
 **How to open the report**  
 1. Download the `.pbix`-file
 2. Open it using **Power BI Desktop**
