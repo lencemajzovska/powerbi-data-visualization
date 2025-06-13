@@ -1,11 +1,6 @@
 # Power BI Sales Dashboard
 
-Educational data analytics project created as part of my Data Science studies to explore sales analysis using Power BI.
-
----
-
-## Project Description
-Interactive sales report created in **Power BI Desktop** based on data from the fictional company Köksglädje. The goal was to analyze sales performance across products, stores, regions, and time, while designing a clear and user-friendly dashboard for business insights.
+Educational data analytics project created as part of my Data Science studies to explore sales analysis using Power BI. The project analyzes sales performance across products, stores, regions, and time, based on data from the fictional company Köksglädje, while designing a clear and user-friendly dashboard for business insights.
 
 ---
 
