@@ -1,6 +1,6 @@
 # Power BI Sales Dashboard
 
-**Educational data analytics project created as part of my Data Science studies to explore sales analysis using Power BI.**
+Educational data analytics project created as part of my Data Science studies to explore sales analysis using Power BI.
 
 ---
 
