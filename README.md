@@ -1,38 +1,40 @@
-# Köksglädje – Power BI rapport för försäljningsanalys
+# Köksglädje – Power BI Sales Dashboard
 
-Detta projekt är en interaktiv försäljningsrapport byggd i **Power BI Desktop** med data från företaget *Köksglädje* (för utbildningssyfte). Syftet med projektet var att analysera försäljning utifrån produkt, butik, geografisk plats och tidsdimension – samt att skapa en tydlig och användarvänlig rapportlayout.
+## Project Description
+Interactive sales report created in **Power BI Desktop** based on data from the fictional company Köksglädje (educational project). The goal was to analyze sales performance across products, stores, regions, and time, while designing a clear and user-friendly dashboard for business insights.
 
-## Syfte
-- Analysera försäljning över tid
-- Identifiera toppsäljande produkter och butiker
-- Upptäcka intressanta trender i data
-- Visualisera resultat på ett logiskt sätt
+## Objectives
+- Analyze sales trends over time
+- Identify top-selling products and best-performing stores
+- Discover trends and patterns in sales data
+- Create intuitive and interactive visualizations for business users
 
-## Innehåll
-- `.pbix`-fil: Själva Power BI-rapporten
-- Visualiseringar:
-  - KPI-boxar (Total försäljning, Bruttovinst, Snittpris etc.)
-  - Tidsanalys (trendlinjer och årsjämförelser)
-  - Topplistor per produkt, butik och stad
-  - Treemap per produktkategori
-  - Karta över försäljning per stad
-  - Egen reflektion: "Hur kul var det att skapa detta projekt?" 
+## Content
+- `.pbix`-file: Full Power BI report
+- Visualizations:
+  - KPI boxes (Total Sales, Gross Profit, Average Price, etc.)
+  - Time analysis (trend lines, year-over-year comparisons)
+  - Top lists by product, store, and city
+  - Treemap by product category
+  - Geographical sales map by city
+  - Reflection and self-assessment from the project
 
-## Datamodell
-- Modellen är uppbyggd enligt **stjärnmodell** med faktatabell och dimensioner (produkt, butik, datum etc.)
-- En **egen datumdimension** har skapats manuellt i Power Query
-- All data har rensats och formaterats för att passa analysen
+## Data Model
+- Star schema with fact table and dimension tables (Product, Store, Date, etc.)
+- Custom date dimension created in Power Query
+- Data cleaning and transformation applied for optimized analysis
 
-## Insikter
-- September 2021 var bästa försäljningsmånad
-- Köksassistenten är topprodukten
-- Köksbutiken Stockholm är butiken med högst försäljning
-- Försäljning ökar under hösten – sannolikt kopplat till kampanjer eller säsong
+## Key Insights
+- September 2021 was the strongest sales month
+- Kitchen Assistant is the top-selling product
+- Stockholm store had the highest sales performance
+- Sales increased during autumn, likely due to promotions or seasonal factors
+
 
 ---
 
-📎 **Vill du se rapporten live?**  
-> Ladda ner `.pbix`-filen och öppna den i Power BI Desktop!
+📎 **How to open the report**  
+> Download the `.pbix`-file and open it in Power BI Desktop.
 
 ### Översikt
 ![image](https://github.com/user-attachments/assets/c34a7413-4084-42a6-93fa-df9ba22caff9)
