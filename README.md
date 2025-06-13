@@ -10,7 +10,7 @@ Educational data analytics project created as part of my Data Science studies to
 - Discover trends and patterns in sales data
 - Create intuitive and interactive visualizations for business users
   
-  ---
+---
 
 ## Content
 - `.pbix`-file: Full Power BI report
