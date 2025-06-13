@@ -43,7 +43,7 @@ Educational data analytics project created as part of my Data Science studies to
 
 👉 Download the full report: [power_bi_köksglädje.pbix](./power_bi_köksglädje.pbix)
 
----
+'''
 
 ## Demo Preview  
 
@@ -59,3 +59,5 @@ Educational data analytics project created as part of my Data Science studies to
 
 ### Summary & Reflection
 ![image](https://github.com/user-attachments/assets/c8e2461e-fa95-475c-bf5e-f0564cc8ee6b)
+
+'''
