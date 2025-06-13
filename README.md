@@ -4,12 +4,12 @@ Educational data analytics project created as part of my Data Science studies to
 
 ---
 
-## 📝 Project Description
+## Project Description
 Interactive sales report created in **Power BI Desktop** based on data from the fictional company Köksglädje. The goal was to analyze sales performance across products, stores, regions, and time, while designing a clear and user-friendly dashboard for business insights.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze sales trends over time
 - Identify top-selling products and best-performing stores
 - Discover trends and patterns in sales data
@@ -17,7 +17,7 @@ Interactive sales report created in **Power BI Desktop** based on data from the 
 
   ---
 
-## 📂 Content
+## Content
 - `.pbix`-file: Full Power BI report
 - **Visualizations:**
   - KPI boxes (Total Sales, Gross Profit, Average Price, etc.)
@@ -29,14 +29,14 @@ Interactive sales report created in **Power BI Desktop** based on data from the 
 
 ---
 
-## 📊 Data Model
+## Data Model
 - Star schema with fact table and dimension tables (Product, Store, Date, etc.)
 - Custom date dimension created in Power Query
 - Data cleaning and transformation applied for optimized analysis
 
 ---
 
-## 🔎 Key Insights
+## Key Insights
 - September 2021 was the strongest sales month
 - Kitchen Assistant is the top-selling product
 - Stockholm store had the highest sales performance
@@ -44,13 +44,13 @@ Interactive sales report created in **Power BI Desktop** based on data from the 
 
 ---
 
-📎 **How to open the report**  
+**How to open the report**  
 1. Download the `.pbix`-file
 2. Open it using **Power BI Desktop**
 
 ---
 
-## 📸 Demo Preview
+## Demo Preview
 
 ---
 
