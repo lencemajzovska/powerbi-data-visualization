@@ -1,18 +1,18 @@
 # Power BI Sales Dashboard
 
-**Educational data analytics project**<br>
+**Educational data analytics project**
 Created as part of my Data Science studies to explore sales analysis using Power BI.
 
-## Project Description
+## 📝 Project Description
 Interactive sales report created in **Power BI Desktop** based on data from the fictional company Köksglädje. The goal was to analyze sales performance across products, stores, regions, and time, while designing a clear and user-friendly dashboard for business insights.
 
-## Objectives
+## 🎯 Objectives
 - Analyze sales trends over time
 - Identify top-selling products and best-performing stores
 - Discover trends and patterns in sales data
 - Create intuitive and interactive visualizations for business users
 
-## Content
+## 📂 Content
 - `.pbix`-file: Full Power BI report
 - Visualizations:
   - KPI boxes (Total Sales, Gross Profit, Average Price, etc.)
@@ -22,12 +22,12 @@ Interactive sales report created in **Power BI Desktop** based on data from the 
   - Geographical sales map by city
   - Reflection and self-assessment from the project
 
-## Data Model
+## 📊 Data Model
 - Star schema with fact table and dimension tables (Product, Store, Date, etc.)
 - Custom date dimension created in Power Query
 - Data cleaning and transformation applied for optimized analysis
 
-## Key Insights
+## 🔎 Key Insights
 - September 2021 was the strongest sales month
 - Kitchen Assistant is the top-selling product
 - Stockholm store had the highest sales performance
@@ -40,7 +40,7 @@ Interactive sales report created in **Power BI Desktop** based on data from the 
 > Download the `.pbix`-file and open it in Power BI Desktop.
 
 
-## Demo Preview
+## 📸 Demo Preview
 
 ### Overview
 ![image](https://github.com/user-attachments/assets/c34a7413-4084-42a6-93fa-df9ba22caff9)
