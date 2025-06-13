@@ -43,8 +43,9 @@ Educational data analytics project created as part of my Data Science studies to
 
 👉 [power_bi_köksglädje.pbix](./power_bi_köksglädje.pbix)  
 
+You can open the file in **Power BI Desktop**.
 
----
+&nbsp;
 
 
 ## Demo Preview  
