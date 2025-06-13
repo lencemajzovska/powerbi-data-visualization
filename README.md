@@ -39,6 +39,7 @@ Interactive sales report created in **Power BI Desktop** based on data from the 
 📎 **How to open the report**  
 > Download the `.pbix`-file and open it in Power BI Desktop.
 
+
 ## Demo Preview
 
 ### Overview
