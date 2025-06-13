@@ -41,7 +41,7 @@ Educational data analytics project created as part of my Data Science studies to
 
 ## Download
 
->  Click the link to download the report file and open it locally in Power BI Desktop.
+👉 Click the link to download the report file and open it locally in Power BI Desktop.
 [Download the report file here](./power_bi_köksglädje.pbix)
 
 ---
