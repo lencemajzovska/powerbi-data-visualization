@@ -45,6 +45,7 @@ Educational data analytics project created as part of my Data Science studies to
 
 You can open the file in **Power BI Desktop**.
 
+---
 &nbsp;
 
 
