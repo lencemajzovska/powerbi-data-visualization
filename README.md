@@ -47,7 +47,7 @@ You can download the full report and open it in Power BI Desktop.
 
 ---
 
-<br>
+<!-- -->
 
 ## Demo Preview  
 
