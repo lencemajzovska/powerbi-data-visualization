@@ -48,6 +48,7 @@ You can open the file in **Power BI Desktop**.
 ---
 
 ## Demo Preview  
+<br>
 
 ### Overview  
 ![Overview](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization-/main/images/1_overview.png)  
@@ -63,4 +64,3 @@ You can open the file in **Power BI Desktop**.
 
 ### Summary & Reflection  
 ![Summary & Reflection](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization-/main/images/4_summary_reflection.png)  
-<br>
