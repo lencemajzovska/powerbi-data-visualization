@@ -51,20 +51,17 @@ You can open the file in **Power BI Desktop**.
 <br>
 
 ### Overview  
-![Overview](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization/main/images/1_overview.png)
-
+![Overview](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization-/main/images/1_overview.png)  
 <br>
 
 ### Products & Stores  
-![Products & Stores](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization/main/images/2_products_stores.png)  
-
+![Products & Stores](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization-/main/images/2_products_stores.png)  
 <br>
 
 ### Time Analysis  
-![Time Analysis](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization/main/images/3_time_analysis.png)  
-
+![Time Analysis](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization-/main/images/3_time_analysis.png)  
 <br>
 
 ### Summary & Reflection  
-![Summary & Reflection](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization/main/images/4_summary_reflection.png)  
-
+![Summary & Reflection](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization-/main/images/4_summary_reflection.png)  
+<br>
