@@ -54,7 +54,8 @@ You can open the file in **Power BI Desktop**.
 ![Overview](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization-/main/images/1_overview.png)  
 <br>
 
-### Products & Stores  
+### Products & Stores 
+![Products & Stores](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization-/main/images/2_products_stores.png)  
 <br>
 
 ### Time Analysis  
