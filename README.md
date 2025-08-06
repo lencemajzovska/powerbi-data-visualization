@@ -52,6 +52,7 @@ You can open the file in **Power BI Desktop**.
 
 ### Overview  
 ![Overview](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization-/main/images/1_overview.png)  
+
 <br>
 
 ### Products & Stores  
