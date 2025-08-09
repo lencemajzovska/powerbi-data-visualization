@@ -65,3 +65,9 @@ You can open the file in **Power BI Desktop**.
 ### Summary & Reflection  
 ![Summary & Reflection](https://raw.githubusercontent.com/lencemajzovska/powerbi-data-visualization-/main/images/4_summary_reflection.png)  
 <br>
+
+
+## Author  
+
+**Lence Majzovska**  
+*Data Science Student @ EC Utbildning 2025*  
