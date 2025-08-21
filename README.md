@@ -41,7 +41,7 @@ Educational data analytics project created as part of my Data Science studies to
 
 ## Download and Open the Report
 
-👉 [power_bi_köksglädje.pbix](./power_bi_köksglädje.pbix)  
+👉 [powerbi_koksgladje.pbix](./powerbi_koksgladje.pbix)  
 
 You can open the file in **Power BI Desktop**.
 
